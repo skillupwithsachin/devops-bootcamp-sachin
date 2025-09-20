@@ -1,0 +1,9 @@
+git branch
+
+command to create branch
+git checkout -b "feature/sarath"
+
+command to commit changes to branch
+git add.
+git commit "INC-002 Git Branch Exercise"
+git push feature/sarath
